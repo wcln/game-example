@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+
+#success-feedback {
+    color: green;
+    font-weight: bold;
+    display: none;
+}
+
+#failure-feedback {
+    color: red;
+    text-transform: uppercase;
+    display: none
+}
